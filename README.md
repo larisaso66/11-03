@@ -22,7 +22,7 @@
 
 `Скриншот интерфейса Kibana, на котором видны логи Nginx.`
 
-<img width="1651" height="858" alt="Снимок экрана 2025-12-10 в 16 02 46" src="https://github.com/user-attachments/assets/badbeb91-2a03-4ce8-b99e-5c1f4cf690a6" />
+<img width="1679" height="893" alt="Снимок экрана 2025-12-10 в 22 32 56" src="https://github.com/user-attachments/assets/3efd6038-613c-4b2f-953c-63d8a69c0703" />
 
 
 ### Задание 4
