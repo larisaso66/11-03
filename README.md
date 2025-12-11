@@ -41,6 +41,7 @@
 <img width="1679" height="917" alt="Снимок экрана 2025-12-11 в 12 37 41" src="https://github.com/user-attachments/assets/09ecef21-a657-4bb5-a95c-a6228b64e979" />
 
 
+
 `Системные логи из /var/log/syslog, доставлены через Logstash`
 
   <img width="1679" height="917" alt="Снимок экрана 2025-12-11 в 12 37 08" src="https://github.com/user-attachments/assets/e6ccef71-4d71-4e3f-a6a3-af791dad4445" />
